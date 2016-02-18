@@ -15,3 +15,5 @@ the app that I used for a long time on my Mac Book and missed it when I switched
 I am not a `C#` or `.NET` developer by any means.
 Comments/pull requests are appreciated. 
 
+![Screenshot](/blob/master/res/screenshot.png)
+
